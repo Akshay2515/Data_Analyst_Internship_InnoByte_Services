@@ -12,5 +12,4 @@ Sales trends: Analysis of sales trends over time, identifying peak periods, and 
 Product Performance: Evaluation of Product Categories, sizes, and quantities sold to identify top-performing and under performing products.
 Fulfillment Efficiency: Assessment of different fulfillment methods to determine their effectiveness and impact on customer satisfaction.
 Geographical Analysis: Exploration of sales distribution across different states and cities to identify high potential regions and areas of growth.
-![image](https://github.com/user-attachments/assets/b2286f12-00e8-442e-ae11-77d3fae966ab)
 
